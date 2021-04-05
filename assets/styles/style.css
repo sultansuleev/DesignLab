@@ -1,0 +1,21 @@
+@import "index.css";
+
+body {
+    background: #ffffff;
+}
+
+.topworkz {
+    color: #000000;
+}
+
+.topworkz_nav a {
+    color: #000000 !important;
+}
+
+.portfolio-block.block-intro .avatar {
+    width: 286px;
+}
+
+.heading h2 {
+    color: #000000;
+}
